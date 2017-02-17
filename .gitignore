@@ -1,0 +1,5 @@
+node_modules
+public/webpack-assets
+public/bundle.js
+.DS_Store
+*.log

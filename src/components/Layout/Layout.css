@@ -1,0 +1,9 @@
+:local {
+  .layout {
+    .logo {
+      position: relative;
+      float: left;
+      margin: 25px;
+    }
+  }
+}
